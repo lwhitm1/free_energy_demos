@@ -13,4 +13,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipykernel
+  - py3dmol
   - gromacs
