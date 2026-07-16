@@ -1,0 +1,72 @@
+ligandHybridTop__log_> Reading ligand 1 from: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/hybrids/ejm_31_jmc_30/ejm_31.pdb"
+ligandHybridTop__log_> Reading ligand 2 from: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/hybrids/ejm_31_jmc_30/jmc_30.pdb"
+ligandHybridTop__log_> Reading topology 1 from: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/ligand_params/ejm_31/ejm_31.top"
+ligandHybridTop__log_> Reading topology 2 from: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/ligand_params/jmc_30/jmc_30.top"
+ligandHybridTop__log_> Reading file with atom pairs: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/hybrids/ejm_31_jmc_30/pairs1.dat"
+ligandHybridTop__log_> Assigning forcefield parameters....
+ligandHybridTop__log_> Superimposing mol2 on mol1
+ligandHybridTop__log_> Superimposing mol1 on mol2
+ligandHybridTop__log_> Initializing the main object for LigandHybridTopology
+ligandHybridTop__log_> Starting hybrid topology generation
+ligandHybridTop__log_> Making atom pairs.....
+ligandHybridTop__log_> Identifying dummies.....
+ligandHybridTop__log_> Generated 26 atom-atom pairs
+ligandHybridTop__log_> Dummies in state A: 11
+ligandHybridTop__log_> Dummies in state B: 6
+ligandHybridTop__log_> Making B-states....
+ligandHybridTop__log_> Atom....:    1      ejm_31_0 |  -0.14 |  12.01 ->     jmc_30_0 |  -0.15 |  12.01
+ligandHybridTop__log_> Atom....:    2      ejm_31_1 |   0.05 |  12.01 ->     jmc_30_1 |   0.05 |  12.01
+ligandHybridTop__log_> Atom....:    3      ejm_31_2 |  -0.13 |  12.01 ->     jmc_30_2 |  -0.13 |  12.01
+ligandHybridTop__log_> Atom....:    4      ejm_31_3 |   0.12 |  12.01 ->     jmc_30_3 |   0.13 |  12.01
+ligandHybridTop__log_> Atom....:    5      ejm_31_4 |   0.69 |  12.01 ->     jmc_30_4 |   0.69 |  12.01
+ligandHybridTop__log_> Atom....:    6      ejm_31_5 |  -0.33 |  12.01 ->     jmc_30_5 |  -0.33 |  12.01
+ligandHybridTop__log_> Atom....:    7      ejm_31_6 |   0.44 |  12.01 ->     jmc_30_6 |   0.45 |  12.01
+ligandHybridTop__log_> Atom....:    8      ejm_31_7 |   0.05 |  12.01 ->     jmc_30_7 |   0.05 |  12.01
+ligandHybridTop__log_> Atom....:    9      ejm_31_8 |  -0.10 |  12.01 ->     jmc_30_8 |  -0.10 |  12.01
+ligandHybridTop__log_> Atom....:   10      ejm_31_9 |  -0.13 |  12.01 ->     jmc_30_9 |  -0.13 |  12.01
+ligandHybridTop__log_> Atom....:   11     ejm_31_10 |  -0.06 |  35.45 ->    jmc_30_10 |  -0.06 |  35.45
+ligandHybridTop__log_> Atom....:   12     ejm_31_11 |  -0.54 |  16.00 ->    jmc_30_11 |  -0.55 |  16.00
+ligandHybridTop__log_> Atom....:   13     ejm_31_12 |  -0.47 |  14.01 ->    jmc_30_12 |  -0.46 |  14.01
+ligandHybridTop__log_> Atom....:   14     ejm_31_13 |  -0.73 |  14.01 ->    jmc_30_13 |  -0.68 |  14.01
+ligandHybridTop__log_> Atom....:   15     ejm_31_14 |   0.55 |  12.01 ->    jmc_30_14 |   0.56 |  12.01
+ligandHybridTop__log_> Atom....:   16     ejm_31_15 |  -0.27 |  12.01 ->    jmc_30_15 |  -0.32 |  12.01
+ligandHybridTop__log_> Atom....:   17     ejm_31_16 |  -0.56 |  14.01 ->    jmc_30_16 |  -0.56 |  14.01
+ligandHybridTop__log_> Atom....:   18     ejm_31_17 |   0.66 |  12.01 ->    jmc_30_17 |   0.70 |  12.01
+ligandHybridTop__log_> Atom....:   19     ejm_31_18 |  -0.57 |  16.00 ->    jmc_30_18 |  -0.54 |  16.00
+ligandHybridTop__log_> Atom....:   21     ejm_31_20 |  -0.06 |  35.45 ->    jmc_30_22 |  -0.06 |  35.45
+ligandHybridTop__log_> Atom....:   22     ejm_31_21 |   0.16 |   1.01 ->    jmc_30_23 |   0.16 |   1.01
+ligandHybridTop__log_> Atom....:   23     ejm_31_22 |   0.14 |   1.01 ->    jmc_30_24 |   0.14 |   1.01
+ligandHybridTop__log_> Atom....:   24     ejm_31_23 |   0.02 |   1.01 ->    jmc_30_25 |   0.03 |   1.01
+ligandHybridTop__log_> Atom....:   25     ejm_31_24 |   0.15 |   1.01 ->    jmc_30_26 |   0.15 |   1.01
+ligandHybridTop__log_> Atom....:   26     ejm_31_25 |   0.16 |   1.01 ->    jmc_30_27 |   0.16 |   1.01
+ligandHybridTop__log_> Atom....:   28     ejm_31_27 |   0.21 |   1.01 ->    jmc_30_29 |   0.18 |   1.01
+ligandHybridTop__log_> Constructing dummies....
+ligandHybridTop__log_> Dummies in stateA: 
+ligandHybridTop__log_> Dummy...:   33  DUM_jmc_30_19 |   0.00 |  12.01 ->    jmc_30_19 |  -0.18 |  12.01
+ligandHybridTop__log_> Dummy...:   34  DUM_jmc_30_20 |   0.00 |  12.01 ->    jmc_30_20 |  -0.10 |  12.01
+ligandHybridTop__log_> Dummy...:   35  DUM_jmc_30_21 |   0.00 |  12.01 ->    jmc_30_21 |  -0.06 |  12.01
+ligandHybridTop__log_> Dummy...:   36  DUM_jmc_30_28 |   0.00 |   1.01 ->    jmc_30_28 |   0.33 |   1.01
+ligandHybridTop__log_> Dummy...:   37  DUM_jmc_30_30 |   0.00 |   1.01 ->    jmc_30_30 |   0.33 |   1.01
+ligandHybridTop__log_> Dummy...:   38  DUM_jmc_30_31 |   0.00 |   1.01 ->    jmc_30_31 |   0.12 |   1.01
+ligandHybridTop__log_> Dummy...:   39  DUM_jmc_30_32 |   0.00 |   1.01 ->    jmc_30_32 |   0.09 |   1.01
+ligandHybridTop__log_> Dummy...:   40  DUM_jmc_30_33 |   0.00 |   1.01 ->    jmc_30_33 |   0.09 |   1.01
+ligandHybridTop__log_> Dummy...:   41  DUM_jmc_30_34 |   0.00 |  12.01 ->    jmc_30_34 |   0.23 |  12.01
+ligandHybridTop__log_> Dummy...:   42  DUM_jmc_30_35 |   0.00 |  14.01 ->    jmc_30_35 |  -0.35 |  14.01
+ligandHybridTop__log_> Dummy...:   43  DUM_jmc_30_36 |   0.00 |   1.01 ->    jmc_30_36 |   0.12 |   1.01
+ligandHybridTop__log_> Dummies in stateB: 
+ligandHybridTop__log_> Dummy...:   20     ejm_31_19 |  -0.18 |  12.01 -> DUM_ejm_31_19 |   0.00 |  12.01
+ligandHybridTop__log_> Dummy...:   27     ejm_31_26 |   0.33 |   1.01 -> DUM_ejm_31_26 |   0.00 |   1.01
+ligandHybridTop__log_> Dummy...:   29     ejm_31_28 |   0.33 |   1.01 -> DUM_ejm_31_28 |   0.00 |   1.01
+ligandHybridTop__log_> Dummy...:   30     ejm_31_29 |   0.07 |   1.01 -> DUM_ejm_31_29 |   0.00 |   1.01
+ligandHybridTop__log_> Dummy...:   31     ejm_31_30 |   0.07 |   1.01 -> DUM_ejm_31_30 |   0.00 |   1.01
+ligandHybridTop__log_> Dummy...:   32     ejm_31_31 |   0.07 |   1.01 -> DUM_ejm_31_31 |   0.00 |   1.01
+ligandHybridTop__log_> Construct bonds....
+ligandHybridTop__log_> Construct angles....
+ligandHybridTop__log_> Construct dihedrals....
+ligandHybridTop__log_> Construct vsites2....
+ligandHybridTop__log_> Construct vsites3....
+ligandHybridTop__log_> Construct exclusions....
+ligandHybridTop__log_> Construct pairs (1-4 interactions)....
+ligandHybridTop__log_> Assembling new itp....
+ligandHybridTop__log_> Writing new itp file: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/hybrids/ejm_31_jmc_30/merged.itp"
+ligandHybridTop__log_> Writing dummy forcefield file: "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/hybrids/ejm_31_jmc_30/ffmerged.itp"
