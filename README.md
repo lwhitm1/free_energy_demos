@@ -1,10 +1,8 @@
 # free_energy_demos
 
-A collection of self-contained demonstrations of free energy
+A collection of self-contained demos of free energy
 calculation methods, built around real molecular systems. Each demo is a
-Jupyter notebook that walks through a full pipeline end to end, with the
-theory explained alongside the code, so it can be read as a tutorial or run
-as a working example.
+Jupyter notebook that walks through a full pipeline end to end.
 
 ## Demos
 
@@ -22,7 +20,7 @@ covers the full workflow:
 3. **Simulation** - minimize, equilibrate, and run production sampling, with
    two interchangeable approaches (fixed-λ windows and expanded ensemble) and
    templates for running on a cluster.
-4. **Analysis** - estimate ΔΔG with TI and MBAR via alchemlyb, with
+4. **Analysis** - estimate $\Delta\Delta\text{G}$ with TI and MBAR via alchemlyb, with
    overlap-matrix and dH/dλ diagnostics.
 
 *(More demos to come.)*
