@@ -1,0 +1,4 @@
+[ atomtypes ]
+;type, bondingtype, atomic_number, mass, charge, ptype, sigma, epsilon
+NA      11   22.98977   1.000000  A   0.257000   0.087439
+CL      17   35.45300  -1.000000  A   0.444000   0.418400

@@ -1,0 +1,23 @@
+#include "complex_atomtypes.itp"
+#include "ffmerged.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/tip3p_atomtypes.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/ions_atomtypes.itp"
+#include "protein_moleculetype.itp"
+#ifdef POSRES
+#include "posre_protein.itp"
+#endif
+#include "merged.itp"
+#ifdef POSRES
+#include "posre_ligand.itp"
+#endif
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/tip3p.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/ions.itp"
+
+[ system ]
+Complex: PROT + hybrid ligand ejm_31 in water
+
+[ molecules ]
+PROT    1
+ejm_31         1
+SOL         15033
+NA               3

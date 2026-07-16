@@ -1,0 +1,14 @@
+#include "base_atomtypes.itp"
+#include "ffmerged.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/tip3p_atomtypes.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/ions_atomtypes.itp"
+#include "merged.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/tip3p.itp"
+#include "/Users/lwhitm1/projects/free_energy_demos/rbfe_demo/demo_W_output/inputs/itps/ions.itp"
+
+[ system ]
+Hybrid ligand ejm_31 in water
+
+[ molecules ]
+ejm_31    1
+SOL              1188

@@ -1,0 +1,4 @@
+[ atomtypes ]
+;type, bondingtype, atomic_number, mass, charge, ptype, sigma, epsilon
+OW       8        15.9994   0.000  A      0.315075   0.636386
+HW       1        1.0080    0.000  A      0.000000   0.000000
